@@ -1,2 +1,2 @@
-# Movie-Recommendation-System
+# MOVIE-RECOMMENDATION-SYSTEM
 Movie Recommendation System with Complete End-to-End Pipeline, Model Integration &amp; Web Application Hosted.
